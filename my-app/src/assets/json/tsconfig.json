@@ -1,0 +1,20 @@
+[
+  {
+    "name":"批量业务",
+    "data":[
+      {"usname":"1"},
+      {"usname":"2"},
+      {"usname":"3"},
+      {"usname":"4"}
+    ]
+  },
+  {
+    "name":"单个业务",
+    "data":[
+      {"usname":"1"},
+      {"usname":"2"},
+      {"usname":"3"},
+      {"usname":"4"}
+    ]
+  }
+]
